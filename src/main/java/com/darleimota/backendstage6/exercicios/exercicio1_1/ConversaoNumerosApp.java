@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 //@Component
-public class ConversaoNumeros implements CommandLineRunner {
+public class ConversaoNumerosApp implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {

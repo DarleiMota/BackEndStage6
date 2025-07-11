@@ -11,7 +11,7 @@ import org.springframework.boot.CommandLineRunner;
 import java.util.Optional;
 
 //@Component
-public class ProcessarNumero implements CommandLineRunner {
+public class ProcessarNumeroApp implements CommandLineRunner {
 
     public static Optional<Integer> processaNumero(Optional<Integer> numero) {
 

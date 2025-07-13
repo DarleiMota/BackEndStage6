@@ -1,9 +1,15 @@
+/*
+3 - Implemente um método que recebe uma String representando um nome completo separado
+por espaços. O método deve retornar o primeiro e o último nome após
+remover os espaços desnecessários.
+ */
+
 package com.darleimota.backendstage6.exercicios.exercicio1_3;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class FormatadorDeNomesApp implements CommandLineRunner {
 
     public static String obterPrimeiroEUltimoNome(String nomeCompleto) {

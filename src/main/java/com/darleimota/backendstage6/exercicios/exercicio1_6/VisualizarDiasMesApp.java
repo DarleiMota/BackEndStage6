@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.Scanner;
 
-@Component
+//@Component
 public class VisualizarDiasMesApp implements CommandLineRunner {
 
 
